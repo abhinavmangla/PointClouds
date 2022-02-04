@@ -20,9 +20,15 @@ Installation Instructions (for Linux based environments): pip install open3d
 # Directory Structure
 
 PointClouds
+
     create_cloud.py
+    
     create_video.py
+    
     rgbd_lobby
+    
         lobby
+        
             image  ---rgb images of lobby
+            
             depth  ---depth images of lobby
