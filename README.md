@@ -1,14 +1,14 @@
 # PointClouds
 
-<img src='https://user-images.githubusercontent.com/43683201/152600891-ede55102-7e5a-49e1-8eb9-aa2004971d79.png' width=640 height=480>
 Output PointCloud of image
+<img src='https://user-images.githubusercontent.com/43683201/152600891-ede55102-7e5a-49e1-8eb9-aa2004971d79.png' width=640 height=480>
 
-
-<img src='https://user-images.githubusercontent.com/43683201/152600425-6e43d7bc-54de-495e-b58e-a33d20714d9e.jpg' height=480 height=640>
 RGB Image in Dataset
+<img src='https://user-images.githubusercontent.com/43683201/152600425-6e43d7bc-54de-495e-b58e-a33d20714d9e.jpg' height=480 height=640>
 
-<img src='https://user-images.githubusercontent.com/43683201/152600524-368462d2-6a98-4e5d-95b0-81f2c00a13a0.png' height=480 width=640>
 Depth Image in Dataset
+<img src='https://user-images.githubusercontent.com/43683201/152600524-368462d2-6a98-4e5d-95b0-81f2c00a13a0.png' height=480 width=640>
+
 
 
 Output Video: https://youtu.be/HKaA1np1F7E
